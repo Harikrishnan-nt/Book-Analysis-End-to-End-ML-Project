@@ -18,7 +18,7 @@ The pipeline includes:
 
 This project simulates a **real-world data engineering and machine learning workflow**.
 
-# 🏗 Project Pipeline
+# Project Pipeline
 
 
 Web Scraping
@@ -38,7 +38,7 @@ Model Evaluation
 Database Storage
 
 
-# 📊 Data Collection
+# Data Collection
 
 Book data is collected through web scraping from publicly available book listing websites.
 
